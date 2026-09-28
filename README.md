@@ -33,6 +33,7 @@ Afficher l'historique en graphe quand c'est pertinent.
 ![Captura de pantalla](/site/captures/revertir_cambio.png)
 9. Issue fermée par une Pull Request
 (capture)
+![Captura de pantalla](/site/captures/issue.png)
 10. Protection de main et CI au vert
 (capture)
 
