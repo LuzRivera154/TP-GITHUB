@@ -30,6 +30,7 @@ Afficher l'historique en graphe quand c'est pertinent.
 ![Captura de pantalla](/site/captures/solucionconflicto.png)
 8. Revert du bandeau promo
 (capture)
+![Captura de pantalla](/site/captures/revertir_cambio.png)
 9. Issue fermée par une Pull Request
 (capture)
 10. Protection de main et CI au vert
