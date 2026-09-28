@@ -5,9 +5,7 @@ flex-direction: column;
 text-align: center;
 
 }
-h1 {
-     color: #4E5EA3;
-     }
+h1 { color: #4E5EA3; }
 .footer{
    background: rgb(121, 121, 245); 
    color:white;
