@@ -36,12 +36,14 @@ Afficher l'historique en graphe quand c'est pertinent.
 ![Captura de pantalla](/site/captures/issue.png)
 10. Protection de main et CI au vert
 (capture)
+![Captura de pantalla](/site/captures/CI.png)
+![Captura de pantalla](/site/captures/DEV.png)
 
 ## Cible mobile
 11. Commit distant récupéré et conflit résolu
 (capture)
 
 ## Trois commits annotés
-1. <hash> :
-2. <hash> :
-3. <hash> :
+1. <hash> : 0b5cbefba9cbc6c8775b2700167ce8a1acfdab04
+2. <hash> : 2243dc58ba719f4f4cf2e0212cbea4a0b3c0980e
+3. <hash> : b626a7e87980dbb051da8b84bdd34cdcbfcb28bb
