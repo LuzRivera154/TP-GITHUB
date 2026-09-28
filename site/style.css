@@ -1,4 +1,9 @@
-body { font-family: system-ui, sans-serif; margin: 2rem; }
+body { font-family: system-ui, sans-serif; margin: 2rem;
+display: flex;
+flex-direction: column; 
+text-align: center;
+
+}
 h1 { color: #4E5EA3; }
 .footer{
    background: rgb(121, 121, 245); 
