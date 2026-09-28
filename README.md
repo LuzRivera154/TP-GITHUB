@@ -1,4 +1,4 @@
-# Rendu de Luz Rivera
+# Rendu de Rivera Luz
 
 Une capture par étape, dans l'ordre. Terminal entier non rogné, invite visible.
 Afficher l'historique en graphe quand c'est pertinent.
