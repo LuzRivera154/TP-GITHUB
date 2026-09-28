@@ -23,11 +23,8 @@ Afficher l'historique en graphe quand c'est pertinent.
 ## Niveau 2
 6. Secret retiré du suivi
 (capture)
-![Captura de pantalla](/site/captures/arreglarenv.png)
 7. Conflit résolu (marqueurs avant, graphe après)
 (capture)
-![Captura de pantalla](/site/captures/conflictos.png)
-![Captura de pantalla](/site/captures/solucionconflicto.png)
 8. Revert du bandeau promo
 (capture)
 9. Issue fermée par une Pull Request
