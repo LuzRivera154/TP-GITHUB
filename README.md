@@ -6,14 +6,19 @@ Afficher l'historique en graphe quand c'est pertinent.
 ## Niveau 1
 1. Configuration Git
 (capture)
+![Captura de pantalla](/site/captures/repositorio.png)
 2. Branche de travail
 (capture)
+![Captura de pantalla](/site/captures/footerbranche.png)
 3. Historique des commits
 (capture)
+![Captura de pantalla](/site/captures/commits.png)
 4. Pull Request
 (capture)
+![Captura de pantalla](/site/captures/pullrequest.png)
 5. Revue croisée
 (capture)
+![Captura de pantalla](/site/captures/secambio.png)
 
 ## Niveau 2
 6. Secret retiré du suivi
